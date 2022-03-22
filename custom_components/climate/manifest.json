@@ -1,5 +1,5 @@
 {
-    "domain": "thermostat",
+    "domain": "climate",
     "name": "thermostat",
     "documentation": "https://github.com/ogizhelev/thermostat-ha",
     "issue_tracker": "https://github.com/ogizhelev/thermostat-ha",
